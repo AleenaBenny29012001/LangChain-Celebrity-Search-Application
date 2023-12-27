@@ -1,4 +1,4 @@
-"LangChain:Celebrities Search application" is a comprehensive project designed to provide insightful details about celebrities through advanced language models. Leveraging the power of OpenAI's cutting-edge API, this project seamlessly integrates natural language processing to retrieve and present information about a chosen celebrity.
+"LangChain:Celebrities Search application" is a comprehensive project designed to provide insightful details about celebrities through advanced language models. Leveraging the power of OpenAI's cutting-edge API, this project seamlessly integrates natural language processing to retrieve and present information about a chosen celebrity
 
 Project Description:
 LangChain Insights is a user-friendly Streamlit application that empowers users to explore fascinating details about their favorite celebrities. Users simply input the name of a celebrity, and the system intelligently generates a narrative, including the celebrity's background, date of birth, and notable events that occurred on that day.
